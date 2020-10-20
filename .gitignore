@@ -1,0 +1,10 @@
+build/*
+proteus/*
+studio/*
+.vscode/*
+*.7z
+*.xml
+*.atsln
+*.cproj
+*.objproj
+*.X/*
